@@ -1,5 +1,5 @@
 require 'pry'
-puts a = "2"
+
 
 def unsafe?(speed)
 	if speed < 40 || speed > 60
